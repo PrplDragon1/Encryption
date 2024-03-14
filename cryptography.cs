@@ -6,7 +6,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
 
-namespace WinFormAdminPanel
+namespace EncryptionExample
 {
     public class Cryptography
     {
